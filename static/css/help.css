@@ -1,0 +1,14 @@
+         @import url('https://fonts.googleapis.com/css?family=Boogaloo&display=swap');
+         .how-to {
+             font-family: 'Boogaloo', cursive;
+             color: palegreen;
+             font-size: 20pt;
+             background-image: url("https://www.alerttech.com.au/wp-content/uploads/2020/04/maintenance-shutterstock_1119128867-1536x790.jpg");
+             background-repeat: no-repeat;
+             height: 680px;
+         }
+         
+         .navbar-nav {
+             font-family: 'Boogaloo', cursive;
+             font-size: 16pt;
+         }
